@@ -11,8 +11,6 @@ This application generates secure random passwords with customizable options and
 - Generate strong random passwords
 - Adjustable password length
 - Include / exclude:
-  - Uppercase letters
-  - Lowercase letters
   - Numbers
   - Special characters
 - 📋 Copy to clipboard button
